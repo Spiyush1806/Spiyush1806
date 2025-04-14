@@ -1,8 +1,8 @@
 - 👋 Hi, I’m piyush kumar
-- 🏫 BTech in Indian Institute of Science, Bangalore
+- 🏫 B.Tech in Indian Institute of Science, Bangalore
 - 🔎 Currently Exploring
 - 🌱 I’m currently learning: Python, C/C++
-- 💞Love talking with friends and roaming in free time
+- 💞 Love talking with friends and roaming in free time
 - 🎵 Love Relax, lofi songs, party songs
 - ⚡ Fun fact: ...
 
